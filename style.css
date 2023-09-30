@@ -1,0 +1,9 @@
+body {
+    font-family: sans-serif;
+    background-color: #FFCF73;
+    color: white;
+}
+.link-header{
+    color: white;
+    border: 3px double white;
+}
